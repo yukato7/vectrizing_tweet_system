@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# text file
+wiki_wakati.txt
+
+# model file
+wiki.model
+wiki.model.trainables.syn1neg.npy
+wiki.model.wv.vectors.npy
